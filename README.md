@@ -1,3 +1,3 @@
 # hello-world
-tutorial repository
+Purpose: tutorial repository
 Clare Hamburg, Medicinal Chemist
